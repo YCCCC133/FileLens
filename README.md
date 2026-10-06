@@ -1,4 +1,4 @@
-# 文件搜索器 · macOS
+# FileLens · 文件搜索器
 
 AppKit 和 WebKit 原生窗口配合 Python 本地服务，通过 SQLite 索引快速搜索文件。
 
